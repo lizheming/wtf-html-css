@@ -35,7 +35,7 @@ layout: default
 
 <a name="box-model-math"></a>
 ### 盒模型计算
-当元素设置了 `padding` 或者 `border-width` 的时候，实际上元素的实际宽度是要逼设置的 `width` 要 *宽* 的。为了避免这个尴尬的问题，我们可以统一使用 [`box-sizing: border-box;`](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) 来重新设置元素盒模型宽度的计算范围。
+当元素设置了 `padding` 或者 `border-width` 的时候，实际上元素的实际宽度是要比设置的 `width` 要 *宽* 的。为了避免这个尴尬的问题，我们可以统一使用 [`box-sizing: border-box;`](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) 来重新设置元素盒模型宽度的计算范围。
 
 
 <a name="rems-mobile-safari"></a>
