@@ -19,7 +19,7 @@ layout: default
 - [IE 选择器限制](#ie-selector-limit)
 - [Position 属性值讲解](#position-explained)
 - [Position 和 Width 不得不说的故事](#position-width)
-- [｀position: fixed;` 和 `transform` 的恩怨是非](#position-transforms)
+- [```position: fixed;``` 和 ```transform``` 的恩怨是非](#position-transforms)
 
 
 <a name="doctype"></a>
